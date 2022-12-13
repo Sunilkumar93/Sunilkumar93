@@ -1,6 +1,6 @@
 [![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://sunilkumar93.github.io/)
 <h1 align="center">Hi 👋, I'm Sunil Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer+from+India;A+Problem+Solver)](https://git.io/typing-svg)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunilkumar93&label=Profile%20views&color=0e75b6&style=flat" alt="sunilkumar93" /> </p>
